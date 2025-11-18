@@ -12,11 +12,11 @@
 # Programm väljastab: Aia kogupikkus on 18 meetrit.
 
 
-# a= int(input("Anna kulg 1: "))
-# b= int(input("Anna kulg 2: "))
-# ymber= 2 * (a+b)
-# 
-# print(f"Aia kogupikkus on {ymber} meetrit.")
+a= int(input("Anna kulg 1: "))
+b= int(input("Anna kulg 2: "))
+ymber= 2 * (a+b)
+
+print(f"Aia kogupikkus on {ymber} meetrit.")
 
 # 3. Faili allalaadimine
 # Kirjuta programm, mis aitab arvutada, kui kaua kulub aega faili allalaadimiseks.
