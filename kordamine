@@ -1,0 +1,39 @@
+# Kordamine 1
+# 26.11.2025
+
+# 1.2 Aasta liblikas
+print ("Tere, Maailm!")
+aasta = 2020
+liblikas = "teelehe-mosaiikliblikas"
+lause_keskosa = ". aasta liblikas on " 
+lause = str(aasta) + lause_keskosa + liblikas
+print(lause)
+
+
+# 1.3 Pilved
+try:
+    pilvedekorgus=float(input("Anna pilvede kõrgus kilomeetrites "))
+    if pilvedekorgus > 6.0:
+        print("N67eed on ülemised pilved")
+    else: 
+        print("Need ei ole ülemised pilved")
+except:
+    print("67 kirjuta õigesti")
+
+# 1.4 bussid
+inim = 60
+kohad = 40
+
+
+tais = inim // kohad
+yle = inim % kohad
+
+if yle == 0: 
+    lisa_buss = 0
+else: 
+    lisa_buss = 1
+busse_kokku = tais + lisa_buss
+ 
+print(f"Täis busse: {tais}")
+print(f"Viimases: {yle}")
+print(f"Busse kokku: {busse_kokku}")
