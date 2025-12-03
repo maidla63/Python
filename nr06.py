@@ -13,7 +13,7 @@ nurk = math.radians(53)
 korgus = 4.4
 
 kaugus = korgus / math.tan(nurk)
-pikkus = round(math.sqrt(math.pow(korgus, 2) + math.pow(kaugus,2)))
+pikkus = round(math.sqrt(math.pow(korgus,2) + math.pow(kaugus,2)),2)
 
 print(pikkus)
 print(kaugus)
