@@ -1,0 +1,33 @@
+# 03.12.2025
+# Ülessane 7
+# Anri Maidla
+
+# 7.1
+
+album = ["1. ALIKA – Bridges",
+         "2. Anett x Fredi – Read Between The Lines",
+         "3. villemdrillem – leekiv armastus",
+         "4. Clicherik & Mäx – PAKSUD",
+         "5. nublu – ära ärata",
+         "6. NOËP – Move Your Feet",
+         "7. Trad.Attack! – Bring It On",
+         "8. Bedwetters – It Is What It Is",
+         "9. Reket – Panama paberid",
+         "10. Grete Paia – Võluväel"]
+
+#print(album)
+# print(album[2])
+#valik =int(input("Vali lugu :  "))
+#print(album[valik -1])
+
+
+# 7.2
+mootmine = ["jaanuar",-16,-12,-15,-20,0,-1,-20,-2,-20,-14,-18,-8,2,-1,-14,-7,-15,-17,-6,-17,-17,-7,0,3,-20,-17,-15,-8,-12,3]
+
+print(f"Mõõdetav kuu: {mootmine[0]}")
+print(f"Viimane mõõtmine: {mootmine[-1]}")
+print(f"Ainult arvud {mootmine[1:]}")
+print(f"Suurim temperatuur: {max(mootmine[1:])}")
+print(f"Väikseim temperatuur: {min(mootmine[1:])}")
+print(f"Keskmine: {sum(mootmine[1:])/len(mootmine[1:])}")
+print(f"-20 esineb: {mootmine[1:].count(-20)} korda")
