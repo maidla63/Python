@@ -119,26 +119,26 @@
 
 # Kuva samasugused kujundid:
 # 1
-# arv = 5
+arv = 5
 
-# for i in range(1,6):
-# print(" "*i,+"*" * arv)
-# arv-=1
+for i in range(1,6):
+    print(" "*i,+"*" * arv)
+    arv-=1
 
 # 2
-# arv = 5
+arv = 5
 
-# for i in range(1,6):
-#     print("*" * arv)
-#     arv = -1
+for i in range(1,6):
+    print("*" * arv)
+    arv = -1
 
 # 3 
-# arv = 5
-# for i in range(1,6):
-#     print(" " * arv + "*"*i)
-#     arv = -1
+arv = 5
+for i in range(1,6):
+    print(" " * arv + "*"*i)
+    arv = -1
 
 # 4
-# arv = 5
-# for i in range(1,6):
-# print("*" * i)
+arv = 5
+for i in range(1,6):
+    print("*" * i)
