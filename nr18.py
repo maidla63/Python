@@ -8,7 +8,6 @@
 import csv
 
 faili_nimi = 'tekstfailid/EstonianBasketballGames.csv'
-
 meeskonnad = {}
 
 with open(faili_nimi, mode='r', encoding='utf-8') as fail:
@@ -18,10 +17,12 @@ with open(faili_nimi, mode='r', encoding='utf-8') as fail:
 
     # print(f"Päise veerud: {pais}")
     for rida in csv_lugeja:
-        if rida[1] not in  meeskonnad:
-            meeskonnad.append(rida[1])
-        if rida[2] not in  meeskonnad:
-            meeskonnad.append(rida[2])
+        meeskonnad[rida[1]] = 0
+        # if rida[1] not in  meeskonnad:
+        #     meeskonnad.append(rida[1])
+        # if rida[2] not in  meeskonnad:
+        #     meeskonnad.append(rida[2])
         # print(rida[2])
 
-print (f"Meeskonnad kokku: {len(meeskonnad)}")
+# print (f"Meeskonnad kokku: {len(meeskonnad)}")
+print(meeskonnad)
