@@ -17,7 +17,7 @@ try:
     for i in range(katalooginimi):
         os.mkdir(today+"/"+str(i+1))
 except FileExistsError:
-    print("Kataloog 'uus_kaust' juba eksisteerib.")
+    print(f"Kataloog  {today} juba eksisteerib.")
 
 kustuta = int(input("Milist kataloogi kustutada 1- {mitu}: "))
 
@@ -25,4 +25,8 @@ if os.path.isdir(f"{today}/{kustuta}"):
     os.rmdir(f"{today}/{kustuta}")
 else:
     print(f"Selline kataloog puudub: {today}/{kustuta}")
-              
+
+# Kuvab tanase 
+
+kausta_tee = os.getcwd()+"/"+today
+print(os.listdir(kausta_tee))
