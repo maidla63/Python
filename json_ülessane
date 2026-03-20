@@ -1,0 +1,55 @@
+import requests
+
+URL = "https://metshein.com/kordamine/json/autod.json"
+
+r = requests.get(URL)
+
+try:
+    data = r.json()
+except:
+    print("ling on kadgine, broovi uud lingi")
+    print("Algus:", r.text[:200])
+    quit()
+
+autod = data["autod"]
+
+# 1) odavaim ja kallim
+odavaim = min(autod, key=lambda a: a["hind"])
+kalleim = max(autod, key=lambda a: a["hind"])
+
+print("\n1) Odavaim:")
+print(odavaim)
+
+print("\n1) Kalleim:")
+print(kalleim)
+
+# 2) kõige rohkem esinev mark
+loendur = {}
+for a in autod:
+    loendur[a["mark"]] = loendur.get(a["mark"], 0) + 1
+
+enim_mark = max(loendur, key=loendur.get)
+print("\n2) Enim mark:", enim_mark, "| kogus:", loendur[enim_mark])
+
+# 3) alla 10 000
+print("\n3) Alla 10 000€:")
+for a in autod:
+    if a["hind"] < 10000:
+        print(a)
+
+# 4) BMW keskmine
+summa = 0
+kogus = 0
+for a in autod:
+    if a["mark"] == "BMW":
+        summa += a["hind"]
+        kogus += 1
+
+if kogus > 0:
+     print("\n4) BMW keskmine hind:", round(summa / kogus, 2))
+
+# 5) Audi > 20 000
+print("\n5) Audi > 20 000€:")
+for a in autod:
+    if a["mark"] == "Audi" and a["hind"] > 20000:
+        print(a)

@@ -1,0 +1,904 @@
+{
+    "autod": [
+        {
+            "id": 501,
+            "mark": "Toyota",
+            "mudel": "Mudel_828",
+            "väljalaskeaasta": 2000,
+            "läbisõit_km": 192199,
+            "värv": "punane",
+            "hind": 16711.23
+        },
+        {
+            "id": 502,
+            "mark": "Volkswagen",
+            "mudel": "Mudel_934",
+            "väljalaskeaasta": 2000,
+            "läbisõit_km": 153220,
+            "värv": "sinine",
+            "hind": 39745.96
+        },
+        {
+            "id": 503,
+            "mark": "Audi",
+            "mudel": "Mudel_190",
+            "väljalaskeaasta": 2024,
+            "läbisõit_km": 234511,
+            "värv": "hall",
+            "hind": 25535.25
+        },
+        {
+            "id": 504,
+            "mark": "Toyota",
+            "mudel": "Mudel_707",
+            "väljalaskeaasta": 2014,
+            "läbisõit_km": 93140,
+            "värv": "valge",
+            "hind": 32861.45
+        },
+        {
+            "id": 505,
+            "mark": "Audi",
+            "mudel": "Mudel_493",
+            "väljalaskeaasta": 2021,
+            "läbisõit_km": 175426,
+            "värv": "punane",
+            "hind": 28394.51
+        },
+        {
+            "id": 506,
+            "mark": "Audi",
+            "mudel": "Mudel_177",
+            "väljalaskeaasta": 2023,
+            "läbisõit_km": 200131,
+            "värv": "must",
+            "hind": 5191.61
+        },
+        {
+            "id": 507,
+            "mark": "Volkswagen",
+            "mudel": "Mudel_933",
+            "väljalaskeaasta": 2007,
+            "läbisõit_km": 70087,
+            "värv": "hall",
+            "hind": 21843.57
+        },
+        {
+            "id": 508,
+            "mark": "BMW",
+            "mudel": "Mudel_192",
+            "väljalaskeaasta": 2016,
+            "läbisõit_km": 78293,
+            "värv": "hall",
+            "hind": 32758.43
+        },
+        {
+            "id": 509,
+            "mark": "Mercedes-Benz",
+            "mudel": "Mudel_664",
+            "väljalaskeaasta": 2006,
+            "läbisõit_km": 91016,
+            "värv": "valge",
+            "hind": 13189.16
+        },
+        {
+            "id": 510,
+            "mark": "Toyota",
+            "mudel": "Mudel_450",
+            "väljalaskeaasta": 2010,
+            "läbisõit_km": 55459,
+            "värv": "punane",
+            "hind": 8002.77
+        },
+        {
+            "id": 511,
+            "mark": "Volkswagen",
+            "mudel": "Mudel_192",
+            "väljalaskeaasta": 2025,
+            "läbisõit_km": 128797,
+            "värv": "must",
+            "hind": 17939.27
+        },
+        {
+            "id": 512,
+            "mark": "Mercedes-Benz",
+            "mudel": "Mudel_211",
+            "väljalaskeaasta": 2024,
+            "läbisõit_km": 15536,
+            "värv": "valge",
+            "hind": 21221.36
+        },
+        {
+            "id": 513,
+            "mark": "Toyota",
+            "mudel": "Mudel_312",
+            "väljalaskeaasta": 2017,
+            "läbisõit_km": 117370,
+            "värv": "hall",
+            "hind": 37586.12
+        },
+        {
+            "id": 514,
+            "mark": "BMW",
+            "mudel": "Mudel_233",
+            "väljalaskeaasta": 2000,
+            "läbisõit_km": 104348,
+            "värv": "must",
+            "hind": 17629.62
+        },
+        {
+            "id": 515,
+            "mark": "BMW",
+            "mudel": "Mudel_712",
+            "väljalaskeaasta": 2017,
+            "läbisõit_km": 225439,
+            "värv": "hall",
+            "hind": 22495.65
+        },
+        {
+            "id": 516,
+            "mark": "Audi",
+            "mudel": "Mudel_241",
+            "väljalaskeaasta": 2013,
+            "läbisõit_km": 75789,
+            "värv": "hall",
+            "hind": 23295.56
+        },
+        {
+            "id": 517,
+            "mark": "Audi",
+            "mudel": "Mudel_660",
+            "väljalaskeaasta": 2009,
+            "läbisõit_km": 71486,
+            "värv": "punane",
+            "hind": 15766.02
+        },
+        {
+            "id": 518,
+            "mark": "Audi",
+            "mudel": "Mudel_917",
+            "väljalaskeaasta": 2006,
+            "läbisõit_km": 246920,
+            "värv": "hall",
+            "hind": 13029.15
+        },
+        {
+            "id": 519,
+            "mark": "Volkswagen",
+            "mudel": "Mudel_207",
+            "väljalaskeaasta": 2019,
+            "läbisõit_km": 45748,
+            "värv": "hall",
+            "hind": 31158.26
+        },
+        {
+            "id": 520,
+            "mark": "Toyota",
+            "mudel": "Mudel_272",
+            "väljalaskeaasta": 2018,
+            "läbisõit_km": 30858,
+            "värv": "must",
+            "hind": 11405.27
+        },
+        {
+            "id": 521,
+            "mark": "BMW",
+            "mudel": "Mudel_342",
+            "väljalaskeaasta": 2022,
+            "läbisõit_km": 33688,
+            "värv": "hall",
+            "hind": 26174.15
+        },
+        {
+            "id": 522,
+            "mark": "Mercedes-Benz",
+            "mudel": "Mudel_167",
+            "väljalaskeaasta": 2013,
+            "läbisõit_km": 161943,
+            "värv": "valge",
+            "hind": 26567.63
+        },
+        {
+            "id": 523,
+            "mark": "Mercedes-Benz",
+            "mudel": "Mudel_944",
+            "väljalaskeaasta": 2021,
+            "läbisõit_km": 157678,
+            "värv": "sinine",
+            "hind": 32252.14
+        },
+        {
+            "id": 524,
+            "mark": "Volkswagen",
+            "mudel": "Mudel_631",
+            "väljalaskeaasta": 2000,
+            "läbisõit_km": 80744,
+            "värv": "hall",
+            "hind": 21902.44
+        },
+        {
+            "id": 525,
+            "mark": "Mercedes-Benz",
+            "mudel": "Mudel_259",
+            "väljalaskeaasta": 2016,
+            "läbisõit_km": 34970,
+            "värv": "valge",
+            "hind": 19522.74
+        },
+        {
+            "id": 526,
+            "mark": "Volkswagen",
+            "mudel": "Mudel_312",
+            "väljalaskeaasta": 2020,
+            "läbisõit_km": 91097,
+            "värv": "sinine",
+            "hind": 39037.03
+        },
+        {
+            "id": 527,
+            "mark": "Volkswagen",
+            "mudel": "Mudel_903",
+            "väljalaskeaasta": 2006,
+            "läbisõit_km": 97949,
+            "värv": "punane",
+            "hind": 21241.93
+        },
+        {
+            "id": 528,
+            "mark": "Volkswagen",
+            "mudel": "Mudel_669",
+            "väljalaskeaasta": 2008,
+            "läbisõit_km": 117107,
+            "värv": "must",
+            "hind": 7482.41
+        },
+        {
+            "id": 529,
+            "mark": "Mercedes-Benz",
+            "mudel": "Mudel_502",
+            "väljalaskeaasta": 2014,
+            "läbisõit_km": 109232,
+            "värv": "must",
+            "hind": 21426.21
+        },
+        {
+            "id": 530,
+            "mark": "BMW",
+            "mudel": "Mudel_550",
+            "väljalaskeaasta": 2013,
+            "läbisõit_km": 172743,
+            "värv": "sinine",
+            "hind": 27657.12
+        },
+        {
+            "id": 531,
+            "mark": "Toyota",
+            "mudel": "Mudel_416",
+            "väljalaskeaasta": 2019,
+            "läbisõit_km": 94365,
+            "värv": "hall",
+            "hind": 13456.03
+        },
+        {
+            "id": 532,
+            "mark": "Volkswagen",
+            "mudel": "Mudel_450",
+            "väljalaskeaasta": 2006,
+            "läbisõit_km": 65679,
+            "värv": "hall",
+            "hind": 15078.15
+        },
+        {
+            "id": 533,
+            "mark": "BMW",
+            "mudel": "Mudel_942",
+            "väljalaskeaasta": 2015,
+            "läbisõit_km": 118399,
+            "värv": "valge",
+            "hind": 16478.53
+        },
+        {
+            "id": 534,
+            "mark": "Audi",
+            "mudel": "Mudel_797",
+            "väljalaskeaasta": 2023,
+            "läbisõit_km": 101778,
+            "värv": "hall",
+            "hind": 38939.76
+        },
+        {
+            "id": 535,
+            "mark": "Volkswagen",
+            "mudel": "Mudel_189",
+            "väljalaskeaasta": 2009,
+            "läbisõit_km": 131297,
+            "värv": "valge",
+            "hind": 6832.58
+        },
+        {
+            "id": 536,
+            "mark": "BMW",
+            "mudel": "Mudel_578",
+            "väljalaskeaasta": 2018,
+            "läbisõit_km": 219146,
+            "värv": "valge",
+            "hind": 20874.61
+        },
+        {
+            "id": 537,
+            "mark": "Mercedes-Benz",
+            "mudel": "Mudel_695",
+            "väljalaskeaasta": 2023,
+            "läbisõit_km": 171490,
+            "värv": "hall",
+            "hind": 19662.41
+        },
+        {
+            "id": 538,
+            "mark": "Volkswagen",
+            "mudel": "Mudel_351",
+            "väljalaskeaasta": 2020,
+            "läbisõit_km": 178261,
+            "värv": "valge",
+            "hind": 19055.47
+        },
+        {
+            "id": 539,
+            "mark": "BMW",
+            "mudel": "Mudel_938",
+            "väljalaskeaasta": 2014,
+            "läbisõit_km": 147657,
+            "värv": "punane",
+            "hind": 35150.1
+        },
+        {
+            "id": 540,
+            "mark": "Volkswagen",
+            "mudel": "Mudel_937",
+            "väljalaskeaasta": 2012,
+            "läbisõit_km": 196258,
+            "värv": "valge",
+            "hind": 12809.71
+        },
+        {
+            "id": 541,
+            "mark": "Audi",
+            "mudel": "Mudel_223",
+            "väljalaskeaasta": 2011,
+            "läbisõit_km": 177462,
+            "värv": "sinine",
+            "hind": 33039.31
+        },
+        {
+            "id": 542,
+            "mark": "Volkswagen",
+            "mudel": "Mudel_204",
+            "väljalaskeaasta": 2007,
+            "läbisõit_km": 19572,
+            "värv": "punane",
+            "hind": 31689.9
+        },
+        {
+            "id": 543,
+            "mark": "Volkswagen",
+            "mudel": "Mudel_921",
+            "väljalaskeaasta": 2013,
+            "läbisõit_km": 145066,
+            "värv": "must",
+            "hind": 5899.36
+        },
+        {
+            "id": 544,
+            "mark": "Toyota",
+            "mudel": "Mudel_495",
+            "väljalaskeaasta": 2006,
+            "läbisõit_km": 116262,
+            "värv": "hall",
+            "hind": 11552.73
+        },
+        {
+            "id": 545,
+            "mark": "BMW",
+            "mudel": "Mudel_930",
+            "väljalaskeaasta": 2023,
+            "läbisõit_km": 29159,
+            "värv": "hall",
+            "hind": 28785.7
+        },
+        {
+            "id": 546,
+            "mark": "Mercedes-Benz",
+            "mudel": "Mudel_886",
+            "väljalaskeaasta": 2005,
+            "läbisõit_km": 129480,
+            "värv": "sinine",
+            "hind": 31025.35
+        },
+        {
+            "id": 547,
+            "mark": "Audi",
+            "mudel": "Mudel_910",
+            "väljalaskeaasta": 2000,
+            "läbisõit_km": 13478,
+            "värv": "sinine",
+            "hind": 32119.86
+        },
+        {
+            "id": 548,
+            "mark": "Volkswagen",
+            "mudel": "Mudel_672",
+            "väljalaskeaasta": 2016,
+            "läbisõit_km": 109056,
+            "värv": "must",
+            "hind": 7950.68
+        },
+        {
+            "id": 549,
+            "mark": "BMW",
+            "mudel": "Mudel_614",
+            "väljalaskeaasta": 2008,
+            "läbisõit_km": 161387,
+            "värv": "hall",
+            "hind": 12210.83
+        },
+        {
+            "id": 550,
+            "mark": "Mercedes-Benz",
+            "mudel": "Mudel_576",
+            "väljalaskeaasta": 2020,
+            "läbisõit_km": 90924,
+            "värv": "must",
+            "hind": 35585.31
+        },
+        {
+            "id": 551,
+            "mark": "Audi",
+            "mudel": "Mudel_684",
+            "väljalaskeaasta": 2010,
+            "läbisõit_km": 91422,
+            "värv": "must",
+            "hind": 22310.83
+        },
+        {
+            "id": 552,
+            "mark": "Volkswagen",
+            "mudel": "Mudel_230",
+            "väljalaskeaasta": 2022,
+            "läbisõit_km": 171234,
+            "värv": "must",
+            "hind": 18288.85
+        },
+        {
+            "id": 553,
+            "mark": "Toyota",
+            "mudel": "Mudel_351",
+            "väljalaskeaasta": 2023,
+            "läbisõit_km": 31184,
+            "värv": "must",
+            "hind": 16696.38
+        },
+        {
+            "id": 554,
+            "mark": "Mercedes-Benz",
+            "mudel": "Mudel_313",
+            "väljalaskeaasta": 2005,
+            "läbisõit_km": 16137,
+            "värv": "must",
+            "hind": 7913.76
+        },
+        {
+            "id": 555,
+            "mark": "Mercedes-Benz",
+            "mudel": "Mudel_460",
+            "väljalaskeaasta": 2015,
+            "läbisõit_km": 175871,
+            "värv": "hall",
+            "hind": 6589.99
+        },
+        {
+            "id": 556,
+            "mark": "Mercedes-Benz",
+            "mudel": "Mudel_869",
+            "väljalaskeaasta": 2010,
+            "läbisõit_km": 185882,
+            "värv": "hall",
+            "hind": 29705.0
+        },
+        {
+            "id": 557,
+            "mark": "Audi",
+            "mudel": "Mudel_776",
+            "väljalaskeaasta": 2005,
+            "läbisõit_km": 201598,
+            "värv": "sinine",
+            "hind": 8557.91
+        },
+        {
+            "id": 558,
+            "mark": "Mercedes-Benz",
+            "mudel": "Mudel_587",
+            "väljalaskeaasta": 2010,
+            "läbisõit_km": 143517,
+            "värv": "must",
+            "hind": 17781.61
+        },
+        {
+            "id": 559,
+            "mark": "BMW",
+            "mudel": "Mudel_294",
+            "väljalaskeaasta": 2020,
+            "läbisõit_km": 143847,
+            "värv": "must",
+            "hind": 16252.95
+        },
+        {
+            "id": 560,
+            "mark": "Toyota",
+            "mudel": "Mudel_771",
+            "väljalaskeaasta": 2003,
+            "läbisõit_km": 173382,
+            "värv": "hall",
+            "hind": 29600.93
+        },
+        {
+            "id": 561,
+            "mark": "Mercedes-Benz",
+            "mudel": "Mudel_606",
+            "väljalaskeaasta": 2011,
+            "läbisõit_km": 228946,
+            "värv": "valge",
+            "hind": 37786.11
+        },
+        {
+            "id": 562,
+            "mark": "Audi",
+            "mudel": "Mudel_211",
+            "väljalaskeaasta": 2023,
+            "läbisõit_km": 136905,
+            "värv": "sinine",
+            "hind": 15186.48
+        },
+        {
+            "id": 563,
+            "mark": "Mercedes-Benz",
+            "mudel": "Mudel_491",
+            "väljalaskeaasta": 2007,
+            "läbisõit_km": 95500,
+            "värv": "must",
+            "hind": 23286.61
+        },
+        {
+            "id": 564,
+            "mark": "BMW",
+            "mudel": "Mudel_830",
+            "väljalaskeaasta": 2004,
+            "läbisõit_km": 18243,
+            "värv": "sinine",
+            "hind": 6998.53
+        },
+        {
+            "id": 565,
+            "mark": "Volkswagen",
+            "mudel": "Mudel_257",
+            "väljalaskeaasta": 2000,
+            "läbisõit_km": 138975,
+            "värv": "punane",
+            "hind": 31919.63
+        },
+        {
+            "id": 566,
+            "mark": "BMW",
+            "mudel": "Mudel_578",
+            "väljalaskeaasta": 2016,
+            "läbisõit_km": 57484,
+            "värv": "must",
+            "hind": 23820.11
+        },
+        {
+            "id": 567,
+            "mark": "Mercedes-Benz",
+            "mudel": "Mudel_477",
+            "väljalaskeaasta": 2012,
+            "läbisõit_km": 130198,
+            "värv": "must",
+            "hind": 24675.68
+        },
+        {
+            "id": 568,
+            "mark": "Toyota",
+            "mudel": "Mudel_875",
+            "väljalaskeaasta": 2012,
+            "läbisõit_km": 24894,
+            "värv": "must",
+            "hind": 22934.61
+        },
+        {
+            "id": 569,
+            "mark": "Toyota",
+            "mudel": "Mudel_601",
+            "väljalaskeaasta": 2001,
+            "läbisõit_km": 185425,
+            "värv": "sinine",
+            "hind": 21365.7
+        },
+        {
+            "id": 570,
+            "mark": "Toyota",
+            "mudel": "Mudel_478",
+            "väljalaskeaasta": 2003,
+            "läbisõit_km": 237141,
+            "värv": "valge",
+            "hind": 18866.96
+        },
+        {
+            "id": 571,
+            "mark": "Audi",
+            "mudel": "Mudel_418",
+            "väljalaskeaasta": 2020,
+            "läbisõit_km": 161054,
+            "värv": "sinine",
+            "hind": 34262.01
+        },
+        {
+            "id": 572,
+            "mark": "Mercedes-Benz",
+            "mudel": "Mudel_834",
+            "väljalaskeaasta": 2008,
+            "läbisõit_km": 186844,
+            "värv": "must",
+            "hind": 17151.88
+        },
+        {
+            "id": 573,
+            "mark": "Toyota",
+            "mudel": "Mudel_590",
+            "väljalaskeaasta": 2006,
+            "läbisõit_km": 207477,
+            "värv": "sinine",
+            "hind": 7474.57
+        },
+        {
+            "id": 574,
+            "mark": "Mercedes-Benz",
+            "mudel": "Mudel_683",
+            "väljalaskeaasta": 2023,
+            "läbisõit_km": 246800,
+            "värv": "must",
+            "hind": 37495.32
+        },
+        {
+            "id": 575,
+            "mark": "Mercedes-Benz",
+            "mudel": "Mudel_433",
+            "väljalaskeaasta": 2000,
+            "läbisõit_km": 91064,
+            "värv": "punane",
+            "hind": 32744.15
+        },
+        {
+            "id": 576,
+            "mark": "Toyota",
+            "mudel": "Mudel_979",
+            "väljalaskeaasta": 2014,
+            "läbisõit_km": 63900,
+            "värv": "must",
+            "hind": 7465.47
+        },
+        {
+            "id": 577,
+            "mark": "Toyota",
+            "mudel": "Mudel_551",
+            "väljalaskeaasta": 2019,
+            "läbisõit_km": 100371,
+            "värv": "sinine",
+            "hind": 13212.99
+        },
+        {
+            "id": 578,
+            "mark": "Audi",
+            "mudel": "Mudel_624",
+            "väljalaskeaasta": 2002,
+            "läbisõit_km": 45411,
+            "värv": "valge",
+            "hind": 9241.76
+        },
+        {
+            "id": 579,
+            "mark": "Mercedes-Benz",
+            "mudel": "Mudel_895",
+            "väljalaskeaasta": 2006,
+            "läbisõit_km": 157892,
+            "värv": "must",
+            "hind": 10934.89
+        },
+        {
+            "id": 580,
+            "mark": "BMW",
+            "mudel": "Mudel_717",
+            "väljalaskeaasta": 2019,
+            "läbisõit_km": 168202,
+            "värv": "hall",
+            "hind": 22051.85
+        },
+        {
+            "id": 581,
+            "mark": "Mercedes-Benz",
+            "mudel": "Mudel_591",
+            "väljalaskeaasta": 2015,
+            "läbisõit_km": 139060,
+            "värv": "must",
+            "hind": 32979.33
+        },
+        {
+            "id": 582,
+            "mark": "BMW",
+            "mudel": "Mudel_909",
+            "väljalaskeaasta": 2025,
+            "läbisõit_km": 210886,
+            "värv": "must",
+            "hind": 13072.18
+        },
+        {
+            "id": 583,
+            "mark": "Volkswagen",
+            "mudel": "Mudel_565",
+            "väljalaskeaasta": 2009,
+            "läbisõit_km": 142766,
+            "värv": "sinine",
+            "hind": 25710.28
+        },
+        {
+            "id": 584,
+            "mark": "BMW",
+            "mudel": "Mudel_173",
+            "väljalaskeaasta": 2017,
+            "läbisõit_km": 219082,
+            "värv": "sinine",
+            "hind": 12339.52
+        },
+        {
+            "id": 585,
+            "mark": "Toyota",
+            "mudel": "Mudel_279",
+            "väljalaskeaasta": 2000,
+            "läbisõit_km": 209600,
+            "värv": "must",
+            "hind": 27785.09
+        },
+        {
+            "id": 586,
+            "mark": "Toyota",
+            "mudel": "Mudel_182",
+            "väljalaskeaasta": 2005,
+            "läbisõit_km": 51965,
+            "värv": "sinine",
+            "hind": 23524.56
+        },
+        {
+            "id": 587,
+            "mark": "Toyota",
+            "mudel": "Mudel_473",
+            "väljalaskeaasta": 2008,
+            "läbisõit_km": 193266,
+            "värv": "hall",
+            "hind": 29929.22
+        },
+        {
+            "id": 588,
+            "mark": "Audi",
+            "mudel": "Mudel_358",
+            "väljalaskeaasta": 2015,
+            "läbisõit_km": 21638,
+            "värv": "valge",
+            "hind": 25266.36
+        },
+        {
+            "id": 589,
+            "mark": "Audi",
+            "mudel": "Mudel_295",
+            "väljalaskeaasta": 2015,
+            "läbisõit_km": 201214,
+            "värv": "must",
+            "hind": 12267.83
+        },
+        {
+            "id": 590,
+            "mark": "BMW",
+            "mudel": "Mudel_216",
+            "väljalaskeaasta": 2017,
+            "läbisõit_km": 21710,
+            "värv": "punane",
+            "hind": 29248.96
+        },
+        {
+            "id": 591,
+            "mark": "Audi",
+            "mudel": "Mudel_557",
+            "väljalaskeaasta": 2016,
+            "läbisõit_km": 104670,
+            "värv": "valge",
+            "hind": 11789.36
+        },
+        {
+            "id": 592,
+            "mark": "Mercedes-Benz",
+            "mudel": "Mudel_274",
+            "väljalaskeaasta": 2015,
+            "läbisõit_km": 197365,
+            "värv": "sinine",
+            "hind": 27891.95
+        },
+        {
+            "id": 593,
+            "mark": "Mercedes-Benz",
+            "mudel": "Mudel_159",
+            "väljalaskeaasta": 2012,
+            "läbisõit_km": 31904,
+            "värv": "punane",
+            "hind": 39803.54
+        },
+        {
+            "id": 594,
+            "mark": "BMW",
+            "mudel": "Mudel_907",
+            "väljalaskeaasta": 2012,
+            "läbisõit_km": 60285,
+            "värv": "sinine",
+            "hind": 7823.85
+        },
+        {
+            "id": 595,
+            "mark": "Toyota",
+            "mudel": "Mudel_863",
+            "väljalaskeaasta": 2007,
+            "läbisõit_km": 77399,
+            "värv": "hall",
+            "hind": 14176.76
+        },
+        {
+            "id": 596,
+            "mark": "Audi",
+            "mudel": "Mudel_300",
+            "väljalaskeaasta": 2018,
+            "läbisõit_km": 50904,
+            "värv": "punane",
+            "hind": 14851.31
+        },
+        {
+            "id": 597,
+            "mark": "BMW",
+            "mudel": "Mudel_953",
+            "väljalaskeaasta": 2007,
+            "läbisõit_km": 247576,
+            "värv": "must",
+            "hind": 11554.81
+        },
+        {
+            "id": 598,
+            "mark": "Volkswagen",
+            "mudel": "Mudel_186",
+            "väljalaskeaasta": 2002,
+            "läbisõit_km": 207819,
+            "värv": "valge",
+            "hind": 11073.43
+        },
+        {
+            "id": 599,
+            "mark": "Volkswagen",
+            "mudel": "Mudel_520",
+            "väljalaskeaasta": 2022,
+            "läbisõit_km": 122168,
+            "värv": "hall",
+            "hind": 34547.71
+        },
+        {
+            "id": 600,
+            "mark": "Audi",
+            "mudel": "Mudel_783",
+            "väljalaskeaasta": 2001,
+            "läbisõit_km": 110548,
+            "värv": "hall",
+            "hind": 12980.87
+        }
+    ]
+}
